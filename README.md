@@ -98,6 +98,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+- **[FocusTimerProBot](https://t.me/FocusTimerProBot)**  
+
+  Free focus timer that runs as a Telegram mini app - pomodoro-style sessions, break reminders and streak stats right in chat, nothing to install. Public guide library at tg.zovo.one.
+
 ## Open-Source GitHub Projects
 
 
