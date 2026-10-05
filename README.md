@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Time-Management-Utility/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Time-Management-Utility?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Time-Management-Utility/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Time-Management-Utility?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Time-Management-Utility/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Time-Management-Utility?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Time-Management-Utility/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Time-Management-Utility?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,7 +60,7 @@ The global **Time Management & Time Tracking Software Market** is estimated at *
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (descending).* ⭐
+*Sorted by GitHub Stars_Count (descending).* ⭐
 
 - **[ActivityWatch](https://github.com/ActivityWatch/activitywatch)** <a href="https://github.com/ActivityWatch/activitywatch/stargazers"><img src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white" alt="ActivityWatch Stars" /></a>  
   🔒 **The leading open-source automatic time tracker**, MPL-2.0 licensed. Runs entirely locally with no cloud tracking or data leak. Automatically monitors active windows, browser extensions, and AFK status. Privacy-first alternative to RescueTime.
