@@ -55,6 +55,7 @@ The global **Time Management & Time Tracking Software Market** is estimated at *
 | **[Forest](https://www.forestapp.cc/)** | Private (~$500K est.) | $3.99 one-time purchase | Free on Android with basic virtual trees; iOS requires $3.99 upfront | Gamified focus timer where focused work plants virtual trees to build your productivity forest. |
 | **[Focus Keeper](https://focuskeeper.co/)** | Private (~$300K est.) | $0.99 / month | Free forever with 3 custom timer presets and basic stats | Minimalist Pomodoro timer with visual charts to track daily focus streaks and progress. |
 | **[Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)** | Private (~$200K est.) | $4.99 one-time (Pro) | Free forever basic version for iOS/macOS with standard 25/5 intervals | Apple ecosystem Pomodoro timer with task goal tracking and CSV data export. |
+| **[FocusTimerProBot](https://t.me/FocusTimerProBot)** | Indie (Zovo) | $3.00 one-time Pro (150 Telegram Stars) | Free tier with focus sessions and breaks, nothing to install | Telegram focus timer that sends an end message and starts a break, used solo by DM or together in a group chat. Guide at [tg.zovo.one](https://tg.zovo.one/bots/focus/). |
 
 ---
 
